@@ -16,6 +16,5 @@ def validate_user(username, minlen):
             return False
         return True
     return username
- 
-print(validate_user("Sowmya Maguluri", 15))
+
  
